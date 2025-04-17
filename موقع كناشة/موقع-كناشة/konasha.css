@@ -1,0 +1,106 @@
+#head {
+   
+    margin-top: 10px;
+        position: fixed;
+        top: 0;
+        left: 0;
+       padding: 43px;
+        width:440px;
+        position:absolute;
+            top:    0%;
+            left:   0%;
+            right:  5%;
+        align-items: center;
+        background-color: #ddc7957e;
+        border:5px ridge peru ;
+        border-bottom: none;        
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+
+}
+
+
+.pro1 ,.pro2  {
+    background-color: rgba(87, 64, 5, 0.24);
+    background-image: url(https://png.pngtree.com/background/20230424/original/pngtree-large-library-filled-with-books-picture-image_2458791.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+
+#navg {
+    color: rgb(255, 255, 255);
+    list-style:none;
+    margin-top: 100px;
+    background-color: rgba(175, 156, 118, 0.411);
+    border:  5px ridge peru;
+    border-radius: 15px;
+    font-family: "Noto Kufi Arabic", sans-serif;
+    width:541px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    
+    
+}
+#h1-2 {
+    color: rgb(255, 255, 255);
+    
+    background-color: rgba(205, 134, 63, 0.541);
+    box-shadow: 0px 0px 30px 10px rgba(205, 134, 63, 0.753);
+    text-align:center;
+    font-family: "Rakkas", serif;
+    font-size: 60px;
+    height:30px;
+    position: absolute;
+    top: -50%;
+    left: 1%;
+    right: 0%;
+    
+    
+}
+
+#li1 
+,#li2 
+,#li3 
+,#li4 {
+    padding: 10px;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#ktfasl {
+    display: inline;
+    color:rgba(167, 151, 135, 0);
+    border-right:7px ridge peru ;
+    border-left: 7px ridge peru ;
+    background-color: rgba(205, 134, 63, 0.671);
+}
+
+
+
+
+
+
+
+/* ------------------------------------- */
+.pro2 {
+   
+    
+    color: aliceblue;
+}
+#h1-1 {
+    text-align:center;
+    margin-top:5% ;
+    border: 10px solid rgb(39, 25, 11);
+    border-radius: 30px;
+    background-color: rgba(205, 134, 63, 0.788);
+    font-family: "Noto Kufi Arabic", sans-serif;
+    
+    
+}
