@@ -1,0 +1,28 @@
+@media (max-width: 600px) {
+    #navg {
+        flex-direction: column;
+        text-align: center;
+        height: 30px;
+        padding-right: 2%;
+    }
+
+   #li-1 
+   ,#li-2
+   ,#li-3
+   ,#li-4 {
+    font-size:small;
+   }
+   #png1 {
+    border-right:1002px ;
+   }
+   #ktfasl {
+    display: inline;
+    width: 5px;
+    height: 30px;
+    color:rgba(167, 151, 135, 0);
+    border-right:2px ridge peru ;
+    border-left: 2px ridge peru ;
+    background-color: rgba(205, 134, 63, 0.671);
+}
+    
+}
